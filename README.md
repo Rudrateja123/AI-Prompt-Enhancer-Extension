@@ -1,24 +1,24 @@
-# My Personal AI Prompt Enhancer
+# My Personal AI Prompt Enhancer 🚀
 
 A simple, powerful Chrome extension designed to streamline AI workflows by converting natural language into high-quality, structured prompts with a single keyboard shortcut.
 
 ![Extension Icon](icon48.png)
 
-## About This Project
+## ℹ️ About This Project
 
 This is a personal browser extension built to solve a common problem for heavy AI users: the time-consuming process of refining simple ideas into detailed prompts that AI models can understand effectively. Instead of switching between different tools, this extension allows you to enhance your text directly within any text box on any website.
 
 **Key Features:**
-* **Instant Prompt Enhancement:** Select your text and use a keyboard shortcut to instantly transform it.
-* **Seamless Integration:** Works on any website with a text input field (ChatGPT, Google Gemini, Perplexity, etc.).
-* **User-Friendly Feedback:** A floating "Enhancing..." indicator provides real-time feedback during the API call.
-* **Powered by Gemini:** Uses the Google Gemini API for fast and high-quality text generation.
+* ⚡ **Instant Prompt Enhancement:** Select your text and use a keyboard shortcut to instantly transform it.
+* 🌐 **Seamless Integration:** Works on any website with a text input field (ChatGPT, Google Gemini, Perplexity, etc.).
+* 💬 **User-Friendly Feedback:** A floating "Enhancing..." indicator provides real-time feedback during the API call.
+* 🧠 **Powered by Gemini:** Uses the Google Gemini API for fast and high-quality text generation.
 
-### Important Note
+### ⚠️ Important Note
 
 This is a **personal, non-commercial project**. It is not an official product and does not have any associated costs or charges. It is provided as-is for anyone interested in using or modifying it.
 
-## Installation
+## 🛠️ Installation
 
 This extension is not on the Chrome Web Store. To install it for personal use, you need to load it manually in Developer Mode.
 
@@ -31,7 +31,7 @@ This extension is not on the Chrome Web Store. To install it for personal use, y
 
 The extension is now installed! The final step is to add your secret API key.
 
-## How to Use
+## ⚙️ How to Use
 
 **1. Set Your API Key (Important Security Step):**
 
@@ -53,7 +53,7 @@ This project uses a `config.js` file to hold your secret API key. This file is l
 * Press the shortcut **`Alt+P`**.
 * Wait for the "Enhancing..." indicator to disappear, and your text will be replaced with a high-quality prompt.
 
-## Customization
+## 🔧 Customization
 
 You can easily modify the keyboard shortcut to your preference.
 
