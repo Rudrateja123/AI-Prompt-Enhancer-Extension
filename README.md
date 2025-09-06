@@ -2,7 +2,10 @@
 
 A simple, powerful Chrome extension designed to streamline AI workflows by converting natural language into high-quality, structured prompts with a single keyboard shortcut.
 
-![Extension Icon](icon48.png)
+**[Link to Live Demo]** <--- *(coming soon)*
+
+
+---
 
 ## ℹ️ About This Project
 
@@ -32,8 +35,15 @@ This extension is not on the Chrome Web Store. To install it for personal use, y
 The extension is now installed! The final step is to add your secret API key.
 
 ## ⚙️ How to Use
+**1. Get Your Gemini API Key:**
 
-**1. Set Your API Key (Important Security Step):**
+1.  Go to **[Google AI Studio](https://aistudio.google.com/app/apikey)**.
+2.  Click **"Create API key in new project"**.
+3.  Copy the generated API key.
+4.  Paste this key into the `GEMINI_API_KEY` field in your `config.js` file.
+
+
+**2. Set Your API Key (Important Security Step):**
 
 This project uses a `config.js` file to hold your secret API key. This file is listed in `.gitignore`, so it is not included in this repository and your key will remain private. You must create this file yourself.
 
@@ -45,12 +55,12 @@ This project uses a `config.js` file to hold your secret API key. This file is l
 * Save the `config.js` file.
 * Go back to `chrome://extensions` and click the **reload icon** on the extension card for the changes to take effect.
 
-**2. Using the Shortcut:**
+**3. Using the Shortcut:**
 
 * Go to any website with a text box.
 * Type your simple prompt (e.g., "explain blockchain").
 * Select the text with your mouse.
-* Press the shortcut **`Alt+P`**.
+* Press the shortcut **`Alt+C`**.
 * Wait for the "Enhancing..." indicator to disappear, and your text will be replaced with a high-quality prompt.
 
 ## 🔧 Customization
@@ -60,3 +70,6 @@ You can easily modify the keyboard shortcut to your preference.
 1.  Navigate to `chrome://extensions/shortcuts`.
 2.  Find the "My Personal Prompt Enhancer" in the list.
 3.  Click the pencil icon next to the current shortcut and type your new desired key combination.
+## 📄 License
+
+This project is licensed under the MIT License.
