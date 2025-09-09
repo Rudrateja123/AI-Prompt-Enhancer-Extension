@@ -72,4 +72,4 @@ You can easily modify the keyboard shortcut to your preference.
 3.  Click the pencil icon next to the current shortcut and type your new desired key combination.
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
