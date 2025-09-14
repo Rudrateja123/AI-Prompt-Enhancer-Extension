@@ -4,8 +4,8 @@
     "version": "1.0",
     "description": "Transforms my selected text into a high-quality prompt with a shortcut.",
     "icons": {
-        "16": "icon16.png",
-        "48": "icon48.png"
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png"
     },
     "permissions": [
         "scripting",

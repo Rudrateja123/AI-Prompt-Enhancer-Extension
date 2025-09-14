@@ -2,8 +2,12 @@
 
 A simple, powerful Chrome extension designed to streamline AI workflows by converting natural language into high-quality, structured prompts with a single keyboard shortcut.
 
-**[Link to Live Demo]** <--- *(coming soon)*
+## 📸 Demo
+*( Enter your text →  Highlight that text → press the shortcut → Your text will be replaced with enhanced text )*
 
+Here’s how it looks in action:
+
+![Demo GIF](/Demo/demo.gif)
 
 ---
 
